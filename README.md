@@ -12,3 +12,5 @@ Finally go to the vue_frontend folder and run
 npm run dev
 ```
 The app should open in a new browser tab.
+
+![Screenshot](preview.jpg?raw=true "Title")
