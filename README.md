@@ -13,4 +13,4 @@ npm run dev
 ```
 The app should open in a new browser tab.
 
-![Screenshot](preview.jpg?raw=true "Title")
+![Preview](preview.png?raw=true "Title")
